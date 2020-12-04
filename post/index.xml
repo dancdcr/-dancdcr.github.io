@@ -5,12 +5,74 @@
     <link>https://dancdcr.github.io.git/post/</link>
       <atom:link href="https://dancdcr.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 13:31:01 -0600</lastBuildDate>
     <image>
       <url>https://dancdcr.github.io.git/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://dancdcr.github.io.git/post/</link>
     </image>
+    
+    <item>
+      <title>Welcome to the website wuwuwu</title>
+      <link>https://dancdcr.github.io.git/post/welcome/</link>
+      <pubDate>Fri, 04 Dec 2020 13:31:01 -0600</pubDate>
+      <guid>https://dancdcr.github.io.git/post/welcome/</guid>
+      <description>&lt;p&gt;So, i can use Latex like: $F(x) = \frac{7}{2}x_1 ^2 -6x_1 x_2 - x_2 ^2$&lt;/p&gt;
+&lt;p&gt;And also, I can center that thing. Sortof like:
+\begin{equation*}
+\nabla F(x) = \begin{bmatrix}
+\frac{\partial}{\partial x_1}F(x) \&lt;br&gt;
+\frac{\partial}{\partial x_2} F(x)
+\end{bmatrix}
+\end{equation*}&lt;/p&gt;
+&lt;p&gt;\begin{equation*}
+\nabla ^2 F(x) = \begin{bmatrix}
+\frac{\partial^2}{\partial x_1 ^2}F(x) &amp;amp; \frac{\partial^2}{\partial x_1 \partial x_2}F(x) \&lt;br&gt;
+\frac{\partial^2}{\partial x_2 x_1}F(x) &amp;amp; \frac{\partial^2}{\partial x_2 ^2}F(x)
+\end{bmatrix}
+\end{equation*}&lt;/p&gt;
+&lt;p&gt;Another thing, is I can use pictures. For that to be a thing, we use this thing:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-eyes&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://dancdcr.github.io.git/media/eyes.jpg&#34; data-caption=&#34;Eyes!!&#34;&gt;
+
+
+  &lt;img src=&#34;https://dancdcr.github.io.git/media/eyes.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Eyes!!
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
   </channel>
 </rss>
