@@ -18,8 +18,8 @@
       <pubDate>Fri, 04 Dec 2020 13:31:01 -0600</pubDate>
       <guid>https://dancdcr.github.io.git/post/welcome/</guid>
       <description>&lt;p&gt;So, i can use Latex like: $F(x) = \frac{7}{2}x_1 ^2 -6x_1 x_2 - x_2 ^2$&lt;/p&gt;
-&lt;p&gt;And also, I can center that thing. Sortof like:
-\begin{equation*}
+&lt;p&gt;And also, I can center that thing. Sortof like:&lt;/p&gt;
+&lt;p&gt;\begin{equation*}
 \nabla F(x) = \begin{bmatrix}
 \frac{\partial}{\partial x_1}F(x) \&lt;br&gt;
 \frac{\partial}{\partial x_2} F(x)
@@ -72,6 +72,30 @@
 &lt;/figure&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>Estudio sobre la intuición artificial</title>
+      <link>https://dancdcr.github.io.git/publication/hernandez-2019-estudio/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://dancdcr.github.io.git/publication/hernandez-2019-estudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep reinforcement learning for collision avoidance of robotic manipulators</title>
+      <link>https://dancdcr.github.io.git/publication/sangiovanni-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://dancdcr.github.io.git/publication/sangiovanni-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time deep learning of robotic manipulator inverse dynamics</title>
+      <link>https://dancdcr.github.io.git/publication/polydoros-2015-real/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://dancdcr.github.io.git/publication/polydoros-2015-real/</guid>
+      <description></description>
     </item>
     
   </channel>

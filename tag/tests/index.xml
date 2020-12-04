@@ -18,8 +18,8 @@
       <pubDate>Fri, 04 Dec 2020 13:31:01 -0600</pubDate>
       <guid>https://dancdcr.github.io.git/post/welcome/</guid>
       <description>&lt;p&gt;So, i can use Latex like: $F(x) = \frac{7}{2}x_1 ^2 -6x_1 x_2 - x_2 ^2$&lt;/p&gt;
-&lt;p&gt;And also, I can center that thing. Sortof like:
-\begin{equation*}
+&lt;p&gt;And also, I can center that thing. Sortof like:&lt;/p&gt;
+&lt;p&gt;\begin{equation*}
 \nabla F(x) = \begin{bmatrix}
 \frac{\partial}{\partial x_1}F(x) \&lt;br&gt;
 \frac{\partial}{\partial x_2} F(x)
